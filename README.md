@@ -31,7 +31,6 @@ Me apasiona aprender y estar a la vanguardia de las tendencias tecnológicas, bu
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 
 ---
@@ -41,7 +40,6 @@ Me apasiona aprender y estar a la vanguardia de las tendencias tecnológicas, bu
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
 
 ---
 
