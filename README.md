@@ -2,7 +2,11 @@
 
 🚀 **Desarrollador Web Full Stack Freelance** | UX/UI Designer | Explorador de soluciones accesibles
 
-Combino tecnologías modernas y diseño centrado en el usuario para crear aplicaciones eficientes, escalables y memorables. Trabajo con empresas como **PSPRO**, con más de 1000 clientes activos, y **Holitrends**, una agencia de viajes con enfoque global, desarrollando soluciones web que resuelven desafíos reales.
+Soy un desarrollador web full stack con formación continua en JavaScript, TypeScript, React, Next.js, Node.js, NestJS y Express.js, especializado en la creación de soluciones innovadoras, accesibles y eficientes que optimizan la experiencia del usuario y cumplen los objetivos de cada proyecto.
+
+Mi enfoque se centra en la arquitectura web moderna, desde la integración de tecnologías frontend y backend hasta la optimización de rendimiento y SEO. También tengo experiencia en la gestión de servidores Linux y configuración avanzada, lo que me permite garantizar aplicaciones estables y seguras.
+
+Me apasiona aprender y estar a la vanguardia de las tendencias tecnológicas, buscando siempre mejorar mi proceso de desarrollo para ofrecer soluciones escalables y funcionales.
 
 ---
 
@@ -77,7 +81,7 @@ Combino tecnologías modernas y diseño centrado en el usuario para crear aplica
 
 ## 🌐 Conectá conmigo
 
-- 🌍 [mi portafolio](https://tuwebpersonal.com)
+- 🌍 [mauriciolores](https://mauriciolores.com.ar)
 - 📩 maurolores1992@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/mauriciolores)
 
@@ -89,9 +93,8 @@ Combino tecnologías modernas y diseño centrado en el usuario para crear aplica
 
 ## 🤝 Conectá conmigo
 
-- 🌐 [mi portafolio](https://tuwebpersonal.com)
+- 🌐 [mauriciolores](https://mauriciolores.com.ar)
 - 💼 [LinkedIn](https://linkedin.com/in/mauriciolores)
-- 📝 [Blog técnico](https://tuwebpersonal.com/blog)
 
 > _"El mejor código es el que se entiende, no el que se presume."_  
 > – Yo, cada vez que refactorizo sin perder el alma del diseño
